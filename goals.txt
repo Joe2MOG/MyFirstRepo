@@ -1,0 +1,6 @@
+My Personal and Academic Goals for Next Year
+
+- Improve my programming skills and build at least 3 projects.
+- Learn advanced Python and Django for backend development.
+- Strengthen my understanding of Git, GitHub, and Linux.
+- Collaborate with others on open-source projects.
