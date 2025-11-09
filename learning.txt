@@ -1,1 +1,5 @@
-Something I’ve learned so far in this course is how to use Git and GitHub to manage and track my projects.
+What I have learned from this course
+
+I have learned how to use Git and GitHub to manage my code and track changes efficiently.
+I now understand how commits, branches, and pull requests help in collaboration and version control.
+This knowledge will help me become a better backend developer and work effectively with others.
