@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+
+Hello, my name is Joseph Albert. I am currently learning backend development and exploring Git and GitHub.
+I love solving problems, learning new technologies, and working on real-world projects that can make a difference.
